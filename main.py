@@ -1,1 +1,3 @@
-print("Привет мир!")
+
+name = input("Enter your name: ")
+pritn("Hello " + name)
